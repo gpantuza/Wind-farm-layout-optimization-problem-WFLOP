@@ -1,0 +1,8 @@
+case
+number of wind directions number of possible turbine positions
+Jensen model parameters (alpha rotor_size to theta)
+number_of_wind_speeds wind_speeds
+W_00_matrix
+W_01_matrix
+W_02_matrix
+...
