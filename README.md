@@ -6,6 +6,9 @@ A wind farm is a limited geographical space on the continent (onshore) or at sea
 A priori, wind energy harnesses the wind’s kinetic energy to move turbines and produce electricity, so the greater the number of turbines, the greater the energy produced.
 
 Content:
-	CODE: Implementation of the algorithm presented in the article.
-  	DATA: The instance considered
-  	RESULT: Results obtained with the presented algorithm.
+
+	CODE: Implementation of the algorithm presented in the article;
+  	
+	DATA: The instance considered;
+  	
+	RESULT: Results obtained with the presented algorithm.
